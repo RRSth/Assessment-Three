@@ -30,6 +30,8 @@ Ticket Statistics: Shows the statistics on the number of tickets created, resolv
 
  
 **Guess the secret number**: v1 
+This is a code that can build on to more possible complex problem along with given solutions.
+This is to prompt the user to guess the number.
 
 Create variable as Answer and assign value 
  Print to screen ("Guess the Number") 
